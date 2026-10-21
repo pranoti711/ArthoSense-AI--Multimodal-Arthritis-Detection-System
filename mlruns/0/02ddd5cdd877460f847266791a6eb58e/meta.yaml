@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Pranoti%20munjankar/OneDrive/Desktop/python/arthritis-detection-care-assistant/mlruns/0/02ddd5cdd877460f847266791a6eb58e/artifacts
+end_time: 1760014051948
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02ddd5cdd877460f847266791a6eb58e
+run_name: tabular_arthritis_v1
+run_uuid: 02ddd5cdd877460f847266791a6eb58e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760014021012
+status: 3
+tags: []
+user_id: Pranoti munjankar

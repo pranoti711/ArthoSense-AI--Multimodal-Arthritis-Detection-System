@@ -1,0 +1,57 @@
+{
+  "risk_guidelines": {
+    "Low Risk": {
+      "suggestions": [
+        "Maintain healthy weight (BMI <25)",
+        "Regular low-impact exercise (30min/day)",
+        "Anti-inflammatory diet (Mediterranean)",
+        "Vitamin D 2000IU daily",
+        "Monitor symptoms quarterly"
+      ],
+      "prevention": "Early intervention prevents 70% progression"
+    },
+    "Medium Risk": {
+      "suggestions": [
+        "Weekly physical therapy",
+        "NSAIDs as needed (max 3x/week)",
+        "Rheumatologist consult Q3 months", 
+        "Joint protection techniques",
+        "Bloodwork: CRP, ESR every 6 weeks"
+      ],
+      "prevention": "Aggressive management halts 85% progression"
+    },
+    "High Risk": {
+      "suggestions": [
+        "Immediate rheumatologist referral",
+        "DMARDs/biologics evaluation",
+        "Monthly monitoring + imaging",
+        "Physical therapy 3x/week",
+        "Multidisciplinary care team"
+      ],
+      "prevention": "Rapid intervention preserves joint function"
+    }
+  },
+  "local_doctors": {
+    "90210": [
+      {"name": "Dr. Sarah Johnson", "specialty": "Rheumatology", "rating": 4.9, "distance": "2.1mi", "hospital": "Cedars-Sinai", "phone": "(310) 555-0101"},
+      {"name": "Dr. Michael Chen", "specialty": "Rheumatology", "rating": 4.8, "distance": "3.4mi", "hospital": "UCLA Health", "phone": "(310) 555-0202"},
+      {"name": "Dr. Emily Rodriguez", "specialty": "Orthopedics/Rheum", "rating": 4.7, "distance": "5.2mi", "hospital": "Hoag Orthopedic", "phone": "(310) 555-0303"},
+      {"name": "Dr. David Patel", "specialty": "Rheumatology", "rating": 4.6, "distance": "6.8mi", "hospital": "Providence", "phone": "(310) 555-0404"},
+      {"name": "Dr. Lisa Kim", "specialty": "Rheumatology", "rating": 4.5, "distance": "8.1mi", "hospital": "Kaiser Permanente", "phone": "(310) 555-0505"}
+    ]
+  },
+  "world_experts": [
+    {"name": "Dr. Josef Smolen", "location": "Vienna, Austria", "expertise": "RA treatment guidelines", "affiliation": "Medical University of Vienna"},
+    {"name": "Dr. Larry Moreland", "location": "Pittsburgh, USA", "expertise": "RA clinical trials", "affiliation": "UPMC"},
+    {"name": "Dr. Vivian Bykerk", "location": "New York, USA", "expertise": "Early RA diagnosis", "affiliation": "Hospital for Special Surgery"},
+    {"name": "Dr. Daniel Aletaha", "location": "Vienna, Austria", "expertise": "RA remission criteria", "affiliation": "Medical University of Vienna"},
+    {"name": "Dr. Iain McInnes", "location": "Glasgow, UK", "expertise": "RA immunology", "affiliation": "University of Glasgow"}
+  ],
+  "EXPLANATIONS": {
+    "genomics": "35% - HLA-DRB1 risk alleles detected",
+    "voice": "22% - Speech biomarkers indicate inflammation", 
+    "imaging": "28% - Joint space narrowing + erosions",
+    "temporal": "10% - Rapid symptom progression pattern",
+    "lab": "5% - Elevated CRP/ESR inflammatory markers"
+  }
+}
