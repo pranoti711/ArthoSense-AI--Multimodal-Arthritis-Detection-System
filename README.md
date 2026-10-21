@@ -184,28 +184,7 @@ Do not compare scores across datasets or splits as if they were directly compara
 
 This project is intended for learning, research, and software demonstration only. It does not replace a clinician, radiologist, rheumatologist, laboratory assessment, or professional medical advice. Do not use it to make treatment decisions or delay seeking medical care.
 
-## Contributors
+## Author
 
-**Group 14 — B.Tech, Computer Science and Engineering**  
-Rajiv Gandhi College of Engineering Research & Technology, Chandrapur  
-Academic session: 2025–2026
+Pranoti Ashok Munjankar
 
-- Pranoti Munjankar
-- Pallavi Adbale
-- Jui Ramteke
-- Achal Khobragade
-- Pranjali Chiwande
-
-## Acknowledgements
-
-The project report acknowledges the guidance of Dr. Vanita Buradkar and the support of the Department of Computer Science & Engineering at Rajiv Gandhi College of Engineering Research & Technology, Chandrapur.
-
-## License
-
-No software license has been specified here. Add a `LICENSE` file only after the project contributors agree on the license and confirm that the code and included assets may be distributed under it. Without a license, standard copyright restrictions apply.
-
-## Citation
-
-If you use or refer to this work, cite the project as:
-
-> Group 14. *Multimodal Arthritis Detection System*. B.Tech Project Phase-II, Department of Computer Science & Engineering, Rajiv Gandhi College of Engineering Research & Technology, Chandrapur, Academic Session 2025–2026.
